@@ -1,2 +1,3 @@
 # Nekoyama
-## its multipurpose bot for scrapping i guess
+
+Its for backuping for now, because i too lazy to filter the folder of project so ya...
