@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "discord.js": "^14.19.3"
+    "anilist-node": "^1.14.1",
+    "discord.js": "^14.19.3",
+    "nodemon": "^3.1.10"
   }
 }
